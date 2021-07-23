@@ -20,7 +20,7 @@ body {
   margin-bottom: 20px;
 }
 
-ul.a {
+ol.a {
   list-style-type: upper-roman;
 }
 .padding-bottom {
